@@ -1,7 +1,7 @@
 # Time Series Analysis on Sales, Expenses, and Profit Trends
 Project Overview
 
-This project focuses on analyzing sales, expenses, and profit trends over time, using time series analysis techniques to uncover insights, detect patterns, and predict future performance. The goal is to gain a better understanding of financial metrics such as revenue, profit, and expenses across different regions and departments, as well as to make data-driven decisions based on the analysis.
+This project focuses on analyzing sales, expenses, and profit trends over time, using time series analysis techniques to uncover insights and detect patterns. The goal is to gain a better understanding of financial metrics such as revenue, profit, and expenses across different regions and departments, as well as to make data-driven decisions based on the analysis.
 
 ## Project Structure
 ### Data Source:
@@ -17,7 +17,6 @@ The data consists of historical sales, expenses, and profit information over sev
 Time series analysis on financial metrics.
 Comparison of revenue, expenses, and profit across different departments and regions.
 Detection of seasonal patterns, anomalies, and overall trends.
-Forecasting future revenue and profit using historical data.
 
 ## Dataset
 ### The dataset contains the following fields:
