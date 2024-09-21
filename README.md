@@ -48,4 +48,4 @@ Detection of seasonal patterns, anomalies, and overall trends.
 8. Which departments have the highest profit margins?
 
 ## Dashboard
-Check out the Financial Performance Dashboard! [Dashboard](https://public.tableau.com/app/profile/vincent.gordon6516/viz/Finance-Performance-Dashboard/Dashboard1?publish=yes)
+Check out the Financial Performance [Dashboard](https://public.tableau.com/app/profile/vincent.gordon6516/viz/Finance-Performance-Dashboard/Dashboard1?publish=yes)!
