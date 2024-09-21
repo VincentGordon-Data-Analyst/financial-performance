@@ -46,8 +46,6 @@ Detection of seasonal patterns, anomalies, and overall trends.
 6. What percentage of total revenue is contributed by each department?
 7. How does profit compare between different regions for the same department?
 8. Which departments have the highest profit margins?
-9. Are there any spikes or dips in sales and profit that coincide with marketing campaigns or external events?
-10. What is the forecasted revenue and profit for the next month/quarter?
 
 ## Dashboard
 Check out the Financial Performance Dashboard! [Dashboard](https://public.tableau.com/app/profile/vincent.gordon6516/viz/Finance-Performance-Dashboard/Dashboard1?publish=yes)
